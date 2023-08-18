@@ -1,8 +1,8 @@
 # Writing-Essay-Assistant
 
-'''python
+```python
 streamlit run app.py
-'''
+```
 
 
 
